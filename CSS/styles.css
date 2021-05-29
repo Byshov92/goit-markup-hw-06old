@@ -203,7 +203,7 @@ body {
     url("../images/Img8.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  max-width: 1600px;
+  /* max-width: 1600px; */
   margin: 0 auto;
   background-size: cover;
   padding-top: 200px;
